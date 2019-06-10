@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  <head>
+    <nav class="nav-container">
+      <div class="nav-container__register-wrapper">
+        <h6>Hi
+          <span class="sign-in-span">Sign in</span>
+          <span>or</span>
+          <span class="sign-in-span">Register</span>
+        </h6>
+      </div>
+      <div class="nav-container__daily-deals">
+        <p>Daily Deals</p>
+        <p>Sell</p>
+        <p>Help & Contact</p>
+      </div>
+      <div class="nav-container__currency-style">
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Icon/gbr.png"
+          height="20"
+          width="20"
+          alt="Great Britain's Flag"
+          />
+        <span>£ GBP</span>
+      </div>
+      <div class="nav-container__bag-style">
+        <div class="cart-bag">
+          <img
+            src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Icon/icons-bag.png"
+            height="20"
+            width="20"
+          />
+          <div class="p-class">
+            <p>0</p>
+          </div>
+        </div>
+        <p>Your Bag: <span>£3.99</span></p>
+      </div>
+    </nav>
+    <nav class="bottom-nav-container">
+      <p class="bottom-nav-container__banner-text">SHOPMATE</p>
+      <div class="bottom-nav-container__brands-section">
+        <p>Women</p>
+        <p>Men</p>
+        <p>Kids</p>
+        <p>Shoes</p>
+        <p>Brands</p>
+      </div>
+      <div class="bottom-nav-container__search-div">
+        <input
+          type="text"
+          placeholder="Search Anything"
+          class="search-placeholder"
+        />
+      </div>
+      <div class="bottom-nav-container__cart-bag-2">
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Icon/icons-bag-white.png"
+          height="20"
+          width="20"
+        />
+        <div class="p-class">
+          <p>0</p>
+        </div>
+      </div>
+    </nav>
+  </head>
+  <div class="content-section">
+    <div class="content-section__product-filter-type">
+      <p class="brand-collection">Mens Wear</p>
+      <div class="content-section__product-sections">
+        <div>
+          <p>Accessories</p>
+          <p>ASOS Basic Types</p>
+          <p>Bags</p>
+          <p>Caps & Hats</p>
+          <p>Gifts</p>
+          <p>Grooming</p>
+        </div>
+        <div>
+          <p>Hoodies & Sweatshirts</p>
+          <p>Jackets & Coats</p>
+          <p>Jeans</p>
+          <p>Jewellery</p>
+          <p>Joggers</p>
+          <p>Jumpers & Cardigans</p>
+        </div>
+        <div>
+          <p>Leather Jackets</p>
+          <p>Long Sleeves T-Shirts</p>
+          <p>Loungewear</p>
+          <p>Oversized & Longline</p>
+          <p>Polo Shirts</p>
+          <p>Shirts</p>
+        </div>
+      </div>
+    </div>
+    <img
+      src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/Images-modal4.png"
+    />
+    <div class="content-section__filter-section">
+      <p class="filter-tag">Filter 486 items</p>
+      <div class="filter-values">
+        <i class="fas fa-times"></i>
+        <p>Gender: Women</p>
+      </div>
+      <div class="filter-values">
+        <i class="fas fa-times"></i>
+        <p>Category: Dresses</p>
+      </div>
+      <div class="content-section__main-filter-section">
+        <p class="tags">Color</p>
+        <div class="content-section__main-filter-section__dot-wrapper">
+          <p class="dot-style-blue" />
+          <p class="dot-style-lemon" />
+          <p class="dot-style-red" />
+          <p class="dot-style-pink" />
+          <p class="dot-style-yellow" />
+          <p class="dot-style-green" />
+          <p class="dot-style-purple" />
+        </div>
+        <p class="tags">Size</p>
+        <div class="content-section__main-filter-section__size-wrapper">
+          <p>XS</p>
+          <p class="small-red">S</p>
+          <p>M</p>
+          <p>L</p>
+          <p>XL</p>
+        </div>
+        <p class="tags">Price range</p>
+        <div class="content-section__main-filter-section__slider-container">
+          <input
+            type="range"
+            min="1"
+            max="10000"
+            class="slider-input"
+          />
+          <div class="price-range">
+            <p>£4</p>
+            <p>£40</p>
+          </div>
+        </div>
+        <p class="tags">Brand</p>
+        <div class="content-section__main-filter-section__brands-container">
+          <div>
+            <label class="brands-checkbox-container">Abercombe
+              <input type="checkbox">
+              <span class="checkmark"></span>
+            </label>
+          </div>
+          <div>
+            <label class="brands-checkbox-container">Fitch
+              <input type="checkbox">
+              <span class="checkmark"></span>
+            </label>
+          </div>
+          <div>
+            <label class="brands-checkbox-container">Adidas originals
+              <input type="checkbox">
+              <span class="checkmark"></span>
+            </label>
+          </div>
+          <div>
+            <label class="brands-checkbox-container">ASOS
+              <input type="checkbox">
+              <span class="checkmark"></span>
+            </label>
+          </div>
+          <div>
+            <label class="brands-checkbox-container">Cheap Monday
+              <input type="checkbox">
+              <span class="checkmark"></span>
+            </label>
+          </div>
+        </div>
+      </div>
+      <div class="content-section__filter-section__clear-filter">
+        <button>
+          Apply
+        </button>
+        <div class="clear-all-text">
+          <i class="fas fa-times"></i>
+          <p>Clear All</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="grid-wrapper-container">
+    <div class="grid-wrapper-container__product-card">
+      <div class="product-content-hover">
+        <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="hovered-price">£14.99</p>
+        <div class="hovered-color-choice">
+          <p class="dot-style-blue" />
+          <p class="dot-style-lemon" />
+          <p class="dot-style-red" />
+        </div>
+        <div class="drop-class-tag">
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Size</button>
+            <div id="myDropdown" class="dropdown-content">
+              <p>XS</p>
+              <p>S</p>
+              <p>M</p>
+              <p>L</p>
+              <p>XL</p>
+              <p>XXL</p>
+            </div>
+          </div>
+          <div>
+            <button class="buy-now-button">
+              Buy Now
+            </button>
+          </div>
+        </div>
+        <div class="wishlist-style">
+          <i class="far fa-heart"></i>
+          <p>Add to Wishlist</p>
+        </div>
+      </div>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt5.png"
+        height="180"
+        width="160"
+      />
+      <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+      <p class="price-style">
+        £14.99
+      </p>
+    </div>
+    <div class="grid-wrapper-container__product-card">
+      <div class="product-content-hover">
+          <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+          <p class="hovered-price">£14.99</p>
+          <div class="hovered-color-choice">
+            <p class="dot-style-blue" />
+            <p class="dot-style-lemon" />
+            <p class="dot-style-red" />
+          </div>
+          <div class="drop-class-tag">
+            <div class="dropdown">
+              <button onclick="myFunction()" class="dropbtn">Size</button>
+              <div id="myDropdown" class="dropdown-content">
+                <p>XS</p>
+                <p>S</p>
+                <p>M</p>
+                <p>L</p>
+                <p>XL</p>
+                <p>XXL</p>
+              </div>
+            </div>
+            <div>
+              <button class="buy-now-button">
+                Buy Now
+              </button>
+            </div>
+          </div>
+          <div class="wishlist-style">
+            <i class="far fa-heart"></i>
+            <p>Add to Wishlist</p>
+          </div>
+        </div>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt6.png"
+        height="180"
+        width="160"
+      />
+      <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+      <p class="price-style">
+        £14.99
+      </p>
+    </div>
+    <div class="grid-wrapper-container__product-card">
+    <div class="product-content-hover">
+        <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="hovered-price">£14.99</p>
+        <div class="hovered-color-choice">
+          <p class="dot-style-blue" />
+          <p class="dot-style-lemon" />
+          <p class="dot-style-red" />
+        </div>
+        <div class="drop-class-tag">
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Size</button>
+            <div id="myDropdown" class="dropdown-content">
+              <p>XS</p>
+              <p>S</p>
+              <p>M</p>
+              <p>L</p>
+              <p>XL</p>
+              <p>XXL</p>
+            </div>
+          </div>
+          <div>
+            <button class="buy-now-button">
+              Buy Now
+            </button>
+          </div>
+        </div>
+        <div class="wishlist-style">
+          <i class="far fa-heart"></i>
+          <p>Add to Wishlist</p>
+        </div>
+      </div>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt7.png"
+        height="180"
+        width="160"
+      />
+      <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+      <p class="price-style">
+        £14.99
+      </p>
+    </div>
+    <div class="grid-wrapper-container__product-card">
+    <div class="product-content-hover">
+        <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="hovered-price">£14.99</p>
+        <div class="hovered-color-choice">
+          <p class="dot-style-blue" />
+          <p class="dot-style-lemon" />
+          <p class="dot-style-red" />
+        </div>
+        <div class="drop-class-tag">
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Size</button>
+            <div id="myDropdown" class="dropdown-content">
+              <p>XS</p>
+              <p>S</p>
+              <p>M</p>
+              <p>L</p>
+              <p>XL</p>
+              <p>XXL</p>
+            </div>
+          </div>
+          <div>
+            <button class="buy-now-button">
+              Buy Now
+            </button>
+          </div>
+        </div>
+        <div class="wishlist-style">
+          <i class="far fa-heart"></i>
+          <p>Add to Wishlist</p>
+        </div>
+      </div>
+      <p class="hot-label">HOT</p>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt8.png"
+        height="180"
+        width="160"
+      />
+      <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+      <p class="price-style">
+        £14.99
+      </p>
+    </div>
+    <div class="grid-wrapper-container__product-card">
+    <div class="product-content-hover">
+        <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="hovered-price">£14.99</p>
+        <div class="hovered-color-choice">
+          <p class="dot-style-blue" />
+          <p class="dot-style-lemon" />
+          <p class="dot-style-red" />
+        </div>
+        <div class="drop-class-tag">
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Size</button>
+            <div id="myDropdown" class="dropdown-content">
+              <p>XS</p>
+              <p>S</p>
+              <p>M</p>
+              <p>L</p>
+              <p>XL</p>
+              <p>XXL</p>
+            </div>
+          </div>
+          <div>
+            <button class="buy-now-button">
+              Buy Now
+            </button>
+          </div>
+        </div>
+        <div class="wishlist-style">
+          <i class="far fa-heart"></i>
+          <p>Add to Wishlist</p>
+        </div>
+      </div>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt9.png"
+        height="180"
+        width="160"
+      />
+      <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+      <p class="price-style">
+        £14.99
+      </p>
+    </div>
+    <div class="grid-wrapper-container__product-card">
+    <div class="product-content-hover">
+        <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="hovered-price">£14.99</p>
+        <div class="hovered-color-choice">
+          <p class="dot-style-blue" />
+          <p class="dot-style-lemon" />
+          <p class="dot-style-red" />
+        </div>
+        <div class="drop-class-tag">
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Size</button>
+            <div id="myDropdown" class="dropdown-content">
+              <p>XS</p>
+              <p>S</p>
+              <p>M</p>
+              <p>L</p>
+              <p>XL</p>
+              <p>XXL</p>
+            </div>
+          </div>
+          <div>
+            <button class="buy-now-button">
+              Buy Now
+            </button>
+          </div>
+        </div>
+        <div class="wishlist-style">
+          <i class="far fa-heart"></i>
+          <p>Add to Wishlist</p>
+        </div>
+      </div>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt10.png"
+        height="180"
+        width="160"
+      />
+      <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+      <p class="price-style">
+        £14.99
+      </p>
+    </div>
+    <div class="grid-wrapper-container__product-card">
+    <div class="product-content-hover">
+        <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="hovered-price">£14.99</p>
+        <div class="hovered-color-choice">
+          <p class="dot-style-blue" />
+          <p class="dot-style-lemon" />
+          <p class="dot-style-red" />
+        </div>
+        <div class="drop-class-tag">
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Size</button>
+            <div id="myDropdown" class="dropdown-content">
+              <p>XS</p>
+              <p>S</p>
+              <p>M</p>
+              <p>L</p>
+              <p>XL</p>
+              <p>XXL</p>
+            </div>
+          </div>
+          <div>
+            <button class="buy-now-button">
+              Buy Now
+            </button>
+          </div>
+        </div>
+        <div class="wishlist-style">
+          <i class="far fa-heart"></i>
+          <p>Add to Wishlist</p>
+        </div>
+      </div>
+      <p class="hot-label">HOT</p>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt13.png"
+        height="180"
+        width="160"
+      />
+      <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+      <p class="price-style">
+        £14.99
+      </p>
+    </div>
+    <div class="grid-wrapper-container__product-card">
+    <div class="product-content-hover">
+        <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="hovered-price">£14.99</p>
+        <div class="hovered-color-choice">
+          <p class="dot-style-blue" />
+          <p class="dot-style-lemon" />
+          <p class="dot-style-red" />
+        </div>
+        <div class="drop-class-tag">
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Size</button>
+            <div id="myDropdown" class="dropdown-content">
+              <p>XS</p>
+              <p>S</p>
+              <p>M</p>
+              <p>L</p>
+              <p>XL</p>
+              <p>XXL</p>
+            </div>
+          </div>
+          <div>
+            <button class="buy-now-button">
+              Buy Now
+            </button>
+          </div>
+        </div>
+        <div class="wishlist-style">
+          <i class="far fa-heart"></i>
+          <p>Add to Wishlist</p>
+        </div>
+      </div>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt12.png"
+        height="180"
+        width="160"
+      />
+      <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+      <p class="price-style">
+        £14.99
+      </p>
+    </div>
+  </div>
+  <div class="flex-wrapper-container">
+      <div class="flex-wrapper-container__product-card">
+      <div class="flex-product-content-hover">
+          <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+          <p class="hovered-price">£14.99</p>
+          <div class="hovered-color-choice">
+            <p class="dot-style-blue" />
+            <p class="dot-style-lemon" />
+            <p class="dot-style-red" />
+          </div>
+          <div class="drop-class-tag">
+            <div class="dropdown">
+              <button onclick="myFunction()" class="dropbtn">Size</button>
+              <div id="myDropdown" class="dropdown-content">
+                <p>XS</p>
+                <p>S</p>
+                <p>M</p>
+                <p>L</p>
+                <p>XL</p>
+                <p>XXL</p>
+              </div>
+            </div>
+            <div>
+              <button class="buy-now-button">
+                Buy Now
+              </button>
+            </div>
+          </div>
+          <div class="wishlist-style">
+            <i class="far fa-heart"></i>
+            <p>Add to Wishlist</p>
+          </div>
+        </div>
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt5.png"
+          height="180"
+          width="160"
+        />
+        <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="price-style">
+          £14.99
+        </p>
+      </div>
+      <div class="flex-wrapper-container__product-card">
+        <div class="flex-product-content-hover">
+            <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+            <p class="hovered-price">£14.99</p>
+            <div class="hovered-color-choice">
+              <p class="dot-style-blue" />
+              <p class="dot-style-lemon" />
+              <p class="dot-style-red" />
+            </div>
+            <div class="drop-class-tag">
+              <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Size</button>
+                <div id="myDropdown" class="dropdown-content">
+                  <p>XS</p>
+                  <p>S</p>
+                  <p>M</p>
+                  <p>L</p>
+                  <p>XL</p>
+                  <p>XXL</p>
+                </div>
+              </div>
+              <div>
+                <button class="buy-now-button">
+                  Buy Now
+                </button>
+              </div>
+            </div>
+            <div class="wishlist-style">
+              <i class="far fa-heart"></i>
+              <p>Add to Wishlist</p>
+            </div>
+          </div>
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt6.png"
+          height="180"
+          width="160"
+        />
+        <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="price-style">
+          £14.99
+        </p>
+      </div>
+      <div class="flex-wrapper-container__product-card">
+        <div class="flex-product-content-hover">
+            <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+            <p class="hovered-price">£14.99</p>
+            <div class="hovered-color-choice">
+              <p class="dot-style-blue" />
+              <p class="dot-style-lemon" />
+              <p class="dot-style-red" />
+            </div>
+            <div class="drop-class-tag">
+              <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Size</button>
+                <div id="myDropdown" class="dropdown-content">
+                  <p>XS</p>
+                  <p>S</p>
+                  <p>M</p>
+                  <p>L</p>
+                  <p>XL</p>
+                  <p>XXL</p>
+                </div>
+              </div>
+              <div>
+                <button class="buy-now-button">
+                  Buy Now
+                </button>
+              </div>
+            </div>
+            <div class="wishlist-style">
+              <i class="far fa-heart"></i>
+              <p>Add to Wishlist</p>
+            </div>
+          </div>
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt7.png"
+          height="180"
+          width="160"
+        />
+        <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="price-style">
+          £14.99
+        </p>
+      </div>
+      <div class="flex-wrapper-container__product-card">
+        <div class="flex-product-content-hover">
+            <p class="hovered-shirt-name">Pull&Bear Jumper in Texture Knit in Blue</p>
+            <p class="hovered-price">£14.99</p>
+            <div class="hovered-color-choice">
+              <p class="dot-style-blue" />
+              <p class="dot-style-lemon" />
+              <p class="dot-style-red" />
+            </div>
+            <div class="drop-class-tag">
+              <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">Size</button>
+                <div id="myDropdown" class="dropdown-content">
+                  <p>XS</p>
+                  <p>S</p>
+                  <p>M</p>
+                  <p>L</p>
+                  <p>XL</p>
+                  <p>XXL</p>
+                </div>
+              </div>
+              <div>
+                <button class="buy-now-button">
+                  Buy Now
+                </button>
+              </div>
+            </div>
+            <div class="wishlist-style">
+              <i class="far fa-heart"></i>
+              <p>Add to Wishlist</p>
+            </div>
+          </div>
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt7.png"
+          height="180"
+          width="160"
+        />
+        <p>Pull&Bear Jumper in Texture Knit in Blue</p>
+        <p class="price-style">
+          £14.99
+        </p>
+      </div>
+    </div>
+    <div class="bottom-banner">
+      <div class="bottom-banner__text">
+        <h3>Converse</h3>
+        <p>Explore styles tough enough to handle all your workouts</p>
+        <button>
+          Shop Brand
+        </button>
+      </div>
+      <img
+        src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shoe2.png"
+      />
+    </div>
+    <div class="subscribe">
+      <p>
+        SUBSCRIBE FOR SHOP NEWS, UPDATES AND SPECIAL OFFERS
+      </p>
+      <div class="subscribe__text-input">
+        <input
+          type="text"
+          placeholder="Your email here"
+          class="subscribe-placeholder"
+        />
+        <button>
+          Subscribe
+        </button>
+      </div>
+    </div>
+    <div class="footer">
+      <div>
+        <a>Women</a>
+        <a>Men</a>
+        <a>Kids</a>
+        <a>Shoes</a>
+        <a>Brands</a>
+      </div>
+      <div class="footer__image-section">
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Icon/icons-instagram-grey.png"
+        />
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Icon/icons-pinterest-grey.png"
+        />
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Icon/icons-twitter-grey.png"
+        />
+        <img
+          src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Icon/icons-facebook-grey.png"
+        />
+      </div>
+      <div class="footer__privacy">
+        <p>&copy; 2016 shopmate Ltd</p>
+        <p>Contact</p>
+        <p>Privacy policy</p>
+      </div>
+    </div>
+</body>
+<script>
+    function myFunction() {
+      document.getElementById("myDropdown").classList.toggle("show");
+    }
+    
+    // Close the dropdown menu if the user clicks outside of it
+    window.onclick = function(event) {
+      if (!event.target.matches('.dropbtn')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+</script>
+</html>
