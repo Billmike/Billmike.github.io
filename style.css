@@ -152,13 +152,13 @@ body {
           height: 12px;
           border-radius: 50%;
           margin-left: 10px; }
-        .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-blue {
+        .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-blue, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-red, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-red, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-red, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-red, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple {
           background-color: blue; }
         .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon {
           background-color: lime; }
         .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink {
           background-color: pink; }
-        .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow {
+        .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple {
           background-color: yellow; }
         .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green {
           background-color: green; }
@@ -447,13 +447,13 @@ body {
     align-items: center;
     margin-top: 30px;
     margin-right: 10px; }
-    .product-content-hover .hovered-color-choice .dot-style-red, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-blue, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .dot-style-lemon {
+    .product-content-hover .hovered-color-choice .dot-style-red, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-blue, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-red, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-red, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-red, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-red, .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-red, .product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .product-content-hover .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-red {
       background-color: red;
       width: 12px;
       height: 12px;
       border-radius: 50%;
       margin-left: 10px; }
-    .product-content-hover .hovered-color-choice .dot-style-blue {
+    .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-red, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-red, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-blue, .product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-red, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-red, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-blue, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon, .product-content-hover .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon {
       background-color: #2196F3; }
     .product-content-hover .hovered-color-choice .dot-style-lemon {
       background-color: lime; }
@@ -563,15 +563,357 @@ div.flex-wrapper-container__product-card:hover > .flex-product-content-hover {
     align-items: center;
     margin-top: 30px;
     margin-right: 10px; }
-    .flex-product-content-hover .hovered-color-choice .dot-style-red, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-blue, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .dot-style-lemon {
+    .flex-product-content-hover .hovered-color-choice .dot-style-red, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-blue, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .flex-product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-red, .flex-product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .flex-product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .flex-product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .flex-product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .flex-product-content-hover .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-red, .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-red, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-red, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-red, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-red, .flex-product-content-hover .hovered-color-choice .dot-style-lemon {
       background-color: red;
       width: 12px;
       height: 12px;
       border-radius: 50%;
       margin-left: 10px; }
-    .flex-product-content-hover .hovered-color-choice .dot-style-blue {
+    .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-red, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-red, .flex-product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-blue, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-red, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-red, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .flex-product-content-hover .hovered-color-choice .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .flex-product-content-hover .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-blue, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon {
       background-color: #2196F3; }
     .flex-product-content-hover .hovered-color-choice .dot-style-lemon {
       background-color: lime; }
+
+.burger-navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 90px;
+  padding-right: 100px;
+  background-color: #FFF; }
+  .burger-navbar .shopmate-text {
+    color: #f7436b;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Montserrat'; }
+  .burger-navbar i {
+    color: #f7436b;
+    margin-top: 20px;
+    font-size: 20px; }
+
+.single-page-body-class {
+  background-color: #f1f1f1; }
+
+.item-wrapper-container {
+  display: flex;
+  background-color: #FFF;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding-top: 15px;
+  font-family: 'Montserrat'; }
+  .item-wrapper-container .image-tag-wrapper {
+    margin-left: 100px; }
+    .item-wrapper-container .image-tag-wrapper .main-tag-image {
+      height: 300px;
+      margin-bottom: 30px; }
+    .item-wrapper-container .image-tag-wrapper .sub-image-tags {
+      margin-left: 30px;
+      margin-top: 5px; }
+  .item-wrapper-container .item-details-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px; }
+    .item-wrapper-container .item-details-container .item-category-text {
+      color: #A9A9A9; }
+    .item-wrapper-container .item-details-container .star-container {
+      color: orange; }
+    .item-wrapper-container .item-details-container .item-description-text {
+      font-weight: 600;
+      font-size: 25px; }
+    .item-wrapper-container .item-details-container .item-price-text {
+      color: #f7436b;
+      font-weight: 600; }
+    .item-wrapper-container .item-details-container .item-color-wrapper {
+      display: flex;
+      flex-direction: column; }
+      .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper {
+        display: flex; }
+        .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-blue, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-red, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple {
+          background-color: #2196F3;
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+          cursor: pointer; }
+        .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-red, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-blue, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-blue, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-blue, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-blue, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon {
+          background-color: red;
+          margin-left: 10px; }
+        .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green {
+          background-color: greenyellow;
+          margin-left: 10px; }
+        .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-lemon {
+          background-color: lime;
+          margin-left: 10px; }
+        .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink {
+          background-color: pink;
+          margin-left: 10px; }
+        .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple {
+          background-color: yellow;
+          margin-left: 10px; }
+        .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple {
+          background-color: purple; }
+    .item-wrapper-container .item-details-container .size-picker-wrapper {
+      display: flex;
+      flex-direction: column; }
+      .item-wrapper-container .item-details-container .size-picker-wrapper .size-values-wrapper {
+        display: flex; }
+        .item-wrapper-container .item-details-container .size-picker-wrapper .size-values-wrapper .size-values, .item-wrapper-container .item-details-container .size-picker-wrapper .size-values-wrapper .size-values-small {
+          margin-right: 10px;
+          background-color: #ddd;
+          padding: 3px 15px;
+          font-size: 12px; }
+        .item-wrapper-container .item-details-container .size-picker-wrapper .size-values-wrapper .size-values-small {
+          background-color: #f7436b;
+          color: #FFF; }
+    .item-wrapper-container .item-details-container .quantity-section-wrapper {
+      display: flex;
+      flex-direction: column; }
+      .item-wrapper-container .item-details-container .quantity-section-wrapper .quantity-section-controls {
+        display: flex; }
+        .item-wrapper-container .item-details-container .quantity-section-wrapper .quantity-section-controls .quantity-control, .item-wrapper-container .item-details-container .quantity-section-wrapper .quantity-section-controls .quantity-control-right {
+          margin-right: 10px;
+          height: 20px;
+          width: 20px;
+          border-radius: 50%;
+          background-color: #CCC;
+          text-align: center;
+          cursor: pointer; }
+        .item-wrapper-container .item-details-container .quantity-section-wrapper .quantity-section-controls .quantity-control-right {
+          margin-left: 10px; }
+        .item-wrapper-container .item-details-container .quantity-section-wrapper .quantity-section-controls .quantity-value {
+          height: 20px;
+          width: 30px;
+          border-radius: 20px;
+          border-width: thin;
+          border-style: solid;
+          border-color: #ddd;
+          background-color: #FFF;
+          text-align: center; }
+    .item-wrapper-container .item-details-container .add-to-cart-section {
+      display: flex; }
+      .item-wrapper-container .item-details-container .add-to-cart-section .add-to-cart-button {
+        height: 40px;
+        width: 150px;
+        background-color: #f7436b;
+        border-color: #f7436b;
+        color: #FFF;
+        border-radius: 30px;
+        margin-right: 25px; }
+      .item-wrapper-container .item-details-container .add-to-cart-section .wishlist-container {
+        display: flex;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 25px; }
+        .item-wrapper-container .item-details-container .add-to-cart-section .wishlist-container .wishlist-text {
+          color: #A9A9A9;
+          margin-left: 10px;
+          margin-top: 0px; }
+        .item-wrapper-container .item-details-container .add-to-cart-section .wishlist-container i {
+          color: #f7436b;
+          margin-top: 0px; }
+
+.product-review-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: #FAFAFA;
+  margin-right: 20px;
+  margin-left: 20px; }
+  .product-review-container .product-reviews-header {
+    font-size: 25px;
+    font-family: 'Montserrat';
+    font-weight: bold; }
+  .product-review-container .product-reviews {
+    display: flex;
+    justify-content: space-between; }
+    .product-review-container .product-reviews .reviewer-name {
+      font-family: 'Montserrat';
+      font-weight: bold; }
+    .product-review-container .product-reviews .review-time {
+      font-size: 12px;
+      color: #A9A9A9;
+      font-family: 'Montserrat'; }
+    .product-review-container .product-reviews .review-content {
+      display: flex;
+      flex-direction: column;
+      margin-left: 200px; }
+      .product-review-container .product-reviews .review-content .main-review {
+        color: #A9A9A9;
+        font-family: 'Montserrat';
+        font-size: 13px; }
+      .product-review-container .product-reviews .review-content .ratings-section {
+        display: flex; }
+        .product-review-container .product-reviews .review-content .ratings-section .heart-section {
+          margin-right: 50px;
+          display: flex; }
+          .product-review-container .product-reviews .review-content .ratings-section .heart-section p {
+            color: #CCC;
+            font-family: 'Montserrat';
+            font-size: 14px;
+            margin-top: 17px; }
+          .product-review-container .product-reviews .review-content .ratings-section .heart-section .heart-style {
+            margin-top: 14px;
+            margin-right: 10px;
+            color: #f7436b;
+            background-color: #CCC;
+            height: 22px;
+            width: 22px;
+            border-radius: 50%;
+            text-align: center; }
+            .product-review-container .product-reviews .review-content .ratings-section .heart-section .heart-style i {
+              margin-top: 4px;
+              font-size: 14px; }
+        .product-review-container .product-reviews .review-content .ratings-section .ratings-value-section {
+          display: flex; }
+          .product-review-container .product-reviews .review-content .ratings-section .ratings-value-section p {
+            color: #CCC;
+            font-family: 'Montserrat';
+            font-size: 14px;
+            margin-top: 17px; }
+          .product-review-container .product-reviews .review-content .ratings-section .ratings-value-section .comment-value {
+            margin-top: 14px;
+            margin-right: 10px;
+            background-color: #CCC;
+            height: 22px;
+            width: 22px;
+            border-radius: 50%;
+            text-align: center; }
+            .product-review-container .product-reviews .review-content .ratings-section .ratings-value-section .comment-value i {
+              margin-top: 4px;
+              font-size: 14px; }
+  .product-review-container .hr-style {
+    margin-left: 0;
+    margin-right: 0;
+    opacity: .2; }
+  .product-review-container .review-section-container {
+    margin-top: 20px; }
+    .product-review-container .review-section-container .review-header {
+      font-family: 'Montserrat';
+      font-size: 25px; }
+    .product-review-container .review-section-container .nickname-section {
+      display: flex;
+      font-family: 'Montserrat'; }
+      .product-review-container .review-section-container .nickname-section .nickname-input {
+        margin-left: 175px;
+        width: 200px;
+        height: 30px;
+        margin-top: 10px;
+        outline: none; }
+    .product-review-container .review-section-container .review-section {
+      display: flex;
+      font-family: 'Montserrat';
+      margin-top: 20px; }
+      .product-review-container .review-section-container .review-section .review-input {
+        margin-left: 240px;
+        height: 100px;
+        width: 400px;
+        outline: none; }
+    .product-review-container .review-section-container .overall-rating-section {
+      display: flex;
+      margin-top: 20px;
+      margin-bottom: 30px; }
+      .product-review-container .review-section-container .overall-rating-section .main-star-rating {
+        margin-left: 240px;
+        margin-top: 15px; }
+        .product-review-container .review-section-container .overall-rating-section .main-star-rating .star-rating-style {
+          color: orange;
+          margin-bottom: 20px; }
+        .product-review-container .review-section-container .overall-rating-section .main-star-rating button {
+          width: 100px;
+          height: 30px;
+          border-color: #f7436b;
+          background-color: #f7436b;
+          color: #FFF;
+          border-radius: 30px;
+          font-family: 'Montserrat';
+          cursor: pointer;
+          box-shadow: 0.5rem 0.5rem 3rem rgba(0, 0, 0, 0.2); }
+
+.ads-section {
+  margin-right: 20px;
+  margin-top: 15px; }
+  .ads-section .might-like {
+    font-family: 'Montserrat';
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px; }
+  .ads-section .ads-image-wrapper {
+    display: flex;
+    justify-content: space-between; }
+    .ads-section .ads-image-wrapper .ads-wrapper {
+      background-color: #FFF;
+      flex-basis: 25%;
+      margin-left: 30px;
+      padding-top: 15px;
+      text-align: center; }
+      .ads-section .ads-image-wrapper .ads-wrapper button {
+        width: 100px;
+        height: 40px;
+        border-color: #f7436b;
+        background-color: #f7436b;
+        color: #FFF;
+        color: #FFF;
+        font-family: 'Montserrat';
+        border-radius: 30px;
+        cursor: pointer; }
+      .ads-section .ads-image-wrapper .ads-wrapper .grey-price-tag {
+        color: #CCC;
+        font-family: 'Montserrat'; }
+      .ads-section .ads-image-wrapper .ads-wrapper .hot-tag {
+        position: absolute;
+        margin-left: 20px;
+        padding: 4px 10px;
+        background-color: #f7436b;
+        font-family: 'Montserrat';
+        color: #FFF; }
+      .ads-section .ads-image-wrapper .ads-wrapper .ads-description {
+        font-family: 'Montserrat';
+        font-weight: bold; }
+      .ads-section .ads-image-wrapper .ads-wrapper .ads-price {
+        font-family: 'Montserrat';
+        color: #f7436b;
+        font-weight: bold; }
+      .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center; }
+        .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-blue, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-red, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple {
+          background-color: #2196F3;
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+          cursor: pointer; }
+        .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon {
+          background-color: limegreen;
+          margin-left: 15px; }
+        .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-red, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-blue, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-blue, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-lemon, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-pink, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-yellow, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-green, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .dot-style-purple, .content-section .content-section__filter-section .content-section__main-filter-section .content-section__main-filter-section__dot-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-blue, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-blue, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .product-content-hover .hovered-color-choice .dot-style-lemon, .product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-blue, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-blue, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-green, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-green, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-green, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-pink, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-pink, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-pink, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-yellow, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-yellow, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-yellow, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .dot-style-purple, .flex-product-content-hover .hovered-color-choice .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-purple, .item-wrapper-container .item-details-container .item-color-wrapper .color-picker-wrapper .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-purple, .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .flex-product-content-hover .hovered-color-choice .dot-style-lemon, .flex-product-content-hover .hovered-color-choice .ads-section .ads-image-wrapper .ads-wrapper .dots-wrapper .dot-style-lemon {
+          background-color: red;
+          margin-left: 15px; }
+
+.single-page-footer {
+  display: flex;
+  flex-direction: column;
+  background-color: #FAFAFA;
+  margin-top: 30px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px; }
+  .single-page-footer .section-links a {
+    margin-left: 55px;
+    font-size: 20px;
+    font-family: 'Montserrat'; }
+  .single-page-footer .footer-image-section {
+    margin-top: 20px; }
+    .single-page-footer .footer-image-section img {
+      margin-left: 20px; }
+  .single-page-footer .footer-privacy-section {
+    display: flex; }
+    .single-page-footer .footer-privacy-section p {
+      margin-left: 15px;
+      font-size: 16px;
+      color: #CCC;
+      font-weight: bold;
+      font-family: 'Montserrat'; }
 
 /*# sourceMappingURL=style.css.map */
