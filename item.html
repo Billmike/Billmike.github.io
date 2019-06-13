@@ -33,7 +33,7 @@
           />
         <span>£ GBP</span>
       </div>
-      <div class="nav-container__bag-style">
+      <div id="myBtn" class="nav-container__bag-style">
         <div class="cart-bag">
           <img
             src="https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Icon/icons-bag.png"
@@ -49,7 +49,7 @@
     </nav>
     <nav>
       <div class="burger-navbar">
-        <p class="shopmate-text">SHOPMATE</p>
+        <a href="index.html" onclick="location.href='index.html'" class="shopmate-text">SHOPMATE</a>
         <i class="fas fa-bars"></i>
       </div>
     </nav>
@@ -253,6 +253,148 @@
       <p>Contact</p>
       <p>Privacy policy</p>
     </div>
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+          <div class="modal-header">
+            <span class="close">&times;</span>
+            <h2>   </h2>
+          </div>
+          <div class="modal-body">
+            <p class="items-number">4 Items In Your Cart</p>
+            <div class="cart-heading">
+              <p class="item-heading">Item</p>
+              <p>Size</p>
+              <p>Quantity</p>
+              <p>Price</p>
+            </div>
+            <div class="item-list-row">
+              <div class="item-detail-wrapper">
+                <img
+                  src=https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt1.png
+                />
+                <div class="item-description-wrapper">
+                  <p>Green T-Shirt 2016</p>
+                  <p>Men BK3569</p>
+                  <div class="item-remove-wrapper">
+                    <i class="fas fa-times"></i>
+                    <p>Remove</p>
+                  </div>
+                </div>
+              </div>
+              <p class="item-size">XXL</p>
+              <div class="item-qty-wrapper">
+                <p class="qty-reduce">-</p>
+                <p>2</p>
+                <p class="qty-increment">+</p>
+              </div>
+              <p class="item-price">£21</p>
+            </div>
+            <div class="item-list-row">
+              <div class="item-detail-wrapper">
+                <img
+                  src=https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt2.png
+                />
+                <div class="item-description-wrapper">
+                  <p>Purple T-Shirt 2016</p>
+                  <p>Men BK3569</p>
+                  <div class="item-remove-wrapper">
+                    <i class="fas fa-times"></i>
+                    <p>Remove</p>
+                  </div>
+                </div>
+              </div>
+              <p class="item-size">XXL</p>
+              <div class="item-qty-wrapper">
+                <p class="qty-reduce">-</p>
+                <p>2</p>
+                <p class="qty-increment">+</p>
+              </div>
+              <p class="item-price">£21</p>
+            </div>
+            <div class="item-list-row">
+              <div class="item-detail-wrapper">
+                <img
+                  src=https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt3.png
+                />
+                <div class="item-description-wrapper">
+                  <p>Yellow T-Shirt 2016</p>
+                  <p>Men BK3569</p>
+                  <div class="item-remove-wrapper">
+                    <i class="fas fa-times"></i>
+                    <p>Remove</p>
+                  </div>
+                </div>
+              </div>
+              <p class="item-size">XXL</p>
+              <div class="item-qty-wrapper">
+                <p class="qty-reduce">-</p>
+                <p>2</p>
+                <p class="qty-increment">+</p>
+              </div>
+              <p class="item-price">£21</p>
+            </div>
+            <div class="item-list-row">
+              <div class="item-detail-wrapper">
+                <img
+                  src=https://raw.githubusercontent.com/zandoan/turing-uiux/master/Zeplin/Images/images-shirt4.png
+                />
+                <div class="item-description-wrapper">
+                  <p>Red T-Shirt 2016</p>
+                  <p>Men BK3569</p>
+                  <div class="item-remove-wrapper">
+                    <i class="fas fa-times"></i>
+                    <p>Remove</p>
+                  </div>
+                </div>
+              </div>
+              <p class="item-size">XXL</p>
+              <div class="item-qty-wrapper">
+                <p class="qty-reduce">-</p>
+                <p>2</p>
+                <p class="qty-increment">+</p>
+              </div>
+              <p class="item-price">£21</p>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button class="back-to-shop">
+              Back to Shop
+            </button>
+            <button class="checkout">
+              Checkout
+            </button>
+          </div>
+        </div>
+      </div>
   </div>
 </body>
+<script>
+  // Get the modal
+  var modal = document.getElementById("myModal");
+
+  // Get the button that opens the modal
+  var btn = document.getElementById("myBtn");
+  
+  // Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
+  
+  // When the user clicks the button, open the modal 
+  btn.onclick = function() {
+    modal.style.display = "block";
+  }
+  
+  // When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
+  
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+</script>
 </html>
