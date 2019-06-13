@@ -1413,7 +1413,7 @@ div.flex-wrapper-container__product-card:hover > .flex-product-content-hover {
     margin-top: 15px;
 
     .item-detail-wrapper {
-      flex-basis: 27%;
+      flex-basis: 28%;
       display: flex;
 
       img {
@@ -1461,11 +1461,23 @@ div.flex-wrapper-container__product-card:hover > .flex-product-content-hover {
     .item-qty-wrapper {
       display: flex;
 
+      .item-qty-value {
+        height: 20px;
+        width: 30px;
+        border-radius: 20px;
+        border-width: thin;
+        border-style: solid;
+        background-color: #FFF;
+        text-align: center;
+        border-color: #ddd;
+        font-family: 'Montserrat';
+      }
+
       .qty-reduce {
         width: 20px;
         height: 20px;
         border-radius: 50%;
-        background-color: #A9A9A9;
+        background-color: #ddd;
         text-align: center;
         margin-right: 10px;
         cursor: pointer;

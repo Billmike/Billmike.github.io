@@ -1019,7 +1019,7 @@ div.flex-wrapper-container__product-card:hover > .flex-product-content-hover {
     justify-content: space-between;
     margin-top: 15px; }
     .modal-body .item-list-row .item-detail-wrapper {
-      flex-basis: 27%;
+      flex-basis: 28%;
       display: flex; }
       .modal-body .item-list-row .item-detail-wrapper img {
         border-style: solid;
@@ -1050,11 +1050,21 @@ div.flex-wrapper-container__product-card:hover > .flex-product-content-hover {
       font-weight: bold; }
     .modal-body .item-list-row .item-qty-wrapper {
       display: flex; }
+      .modal-body .item-list-row .item-qty-wrapper .item-qty-value {
+        height: 20px;
+        width: 30px;
+        border-radius: 20px;
+        border-width: thin;
+        border-style: solid;
+        background-color: #FFF;
+        text-align: center;
+        border-color: #ddd;
+        font-family: 'Montserrat'; }
       .modal-body .item-list-row .item-qty-wrapper .qty-reduce, .modal-body .item-list-row .item-qty-wrapper .qty-increment {
         width: 20px;
         height: 20px;
         border-radius: 50%;
-        background-color: #A9A9A9;
+        background-color: #ddd;
         text-align: center;
         margin-right: 10px;
         cursor: pointer; }

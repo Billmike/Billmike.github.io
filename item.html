@@ -108,9 +108,9 @@
       <div class="quantity-section-wrapper">
         <p>Quantity</p>
         <div class="quantity-section-controls">
-          <p class="quantity-control">-</p>
-          <p class="quantity-value">2</p>
-          <p class="quantity-control-right">+</p>
+          <p class="quantity-control" onclick="incrementQty('decrement')">-</p>
+          <p id="qty-value" class="quantity-value">2</p>
+          <p class="quantity-control-right" onclick="incrementQty('increment')">+</p>
         </div>
       </div>
       <div class="add-to-cart-section">
@@ -285,9 +285,9 @@
               </div>
               <p class="item-size">XXL</p>
               <div class="item-qty-wrapper">
-                <p class="qty-reduce">-</p>
-                <p>2</p>
-                <p class="qty-increment">+</p>
+                <p class="qty-reduce" onclick="incrementCart('first-id', 'decrement')">-</p>
+                <p id="first-id" class="item-qty-value">2</p>
+                <p class="qty-increment" onclick="incrementCart('first-id', 'increment')">+</p>
               </div>
               <p class="item-price">£21</p>
             </div>
@@ -307,9 +307,9 @@
               </div>
               <p class="item-size">XXL</p>
               <div class="item-qty-wrapper">
-                <p class="qty-reduce">-</p>
-                <p>2</p>
-                <p class="qty-increment">+</p>
+                <p class="qty-reduce" onclick="incrementCart('second-id', 'decrement')">-</p>
+                <p id="second-id" class="item-qty-value">2</p>
+                <p class="qty-increment" onclick="incrementCart('second-id', 'increment')">+</p>
               </div>
               <p class="item-price">£21</p>
             </div>
@@ -329,9 +329,9 @@
               </div>
               <p class="item-size">XXL</p>
               <div class="item-qty-wrapper">
-                <p class="qty-reduce">-</p>
-                <p>2</p>
-                <p class="qty-increment">+</p>
+                <p class="qty-reduce" onclick="incrementCart('third-id', 'decrement')">-</p>
+                <p id="third-id" class="item-qty-value">2</p>
+                <p class="qty-increment" onclick="incrementCart('third-id', 'increment')">+</p>
               </div>
               <p class="item-price">£21</p>
             </div>
@@ -351,9 +351,9 @@
               </div>
               <p class="item-size">XXL</p>
               <div class="item-qty-wrapper">
-                <p class="qty-reduce">-</p>
-                <p>2</p>
-                <p class="qty-increment">+</p>
+                <p class="qty-reduce" onclick="incrementCart('fourth-id', 'decrement')">-</p>
+                <p id="fourth-id" class="item-qty-value">2</p>
+                <p class="qty-increment" onclick="incrementCart('fourth-id', 'increment')">+</p>
               </div>
               <p class="item-price">£21</p>
             </div>
@@ -379,6 +379,28 @@
   
   // Get the <span> element that closes the modal
   var span = document.getElementsByClassName("close")[0];
+
+  function incrementQty(value) {
+    var qtyValue = document.getElementById("qty-value");
+    var qtyValueInNumber = Number(qtyValue.innerHTML);
+    if (value === 'increment') {
+      document.getElementById("qty-value").innerHTML = qtyValueInNumber + 1;
+    } else if (qtyValueInNumber > 0 && value === 'decrement') {
+      document.getElementById("qty-value").innerHTML = qtyValueInNumber - 1;
+    }
+  }
+
+  function incrementCart(id, value) {
+    var cartQTYValue = document.getElementById(id);
+    var cartQTYValueInNumber = Number(cartQTYValue.innerHTML);
+
+    if (value === 'increment') {
+      document.getElementById(id).innerHTML = cartQTYValueInNumber + 1;
+    } else if (cartQTYValueInNumber > 0 && value === 'decrement') {
+      document.getElementById(id).innerHTML = cartQTYValueInNumber - 1;
+    }
+  }
+
   
   // When the user clicks the button, open the modal 
   btn.onclick = function() {
