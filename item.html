@@ -114,7 +114,7 @@
         </div>
       </div>
       <div class="add-to-cart-section">
-        <button class="add-to-cart-button">
+        <button onclick="changeButton()" id="add-cart-btn" class="add-to-cart-button">
           Add to cart
         </button>
         <div class="wishlist-container">
@@ -399,6 +399,22 @@
     } else if (cartQTYValueInNumber > 0 && value === 'decrement') {
       document.getElementById(id).innerHTML = cartQTYValueInNumber - 1;
     }
+  }
+
+  function changeButton() {
+    var wrapperDiv = document.querySelector(".add-to-cart-section");
+    var element = document.getElementById("add-cart-btn");
+    element.classList.add("transition-style");
+    var buttonCopy = document.querySelector(".transition-style");
+    var buttonMainCopy = buttonCopy.cloneNode(true);
+    setTimeout(function() {
+      document.querySelector(".add-to-cart-section").insertBefore(buttonMainCopy, wrapperDiv.firstChild)
+      element.classList.add("clone-button-style");
+    }, 500)
+    setTimeout(function() {
+      element.classList.add("hide-button");
+      buttonMainCopy.classList.remove("transition-style");
+    }, 1500)
   }
 
   
