@@ -1397,6 +1397,10 @@ div.flex-wrapper-container__product-card:hover > .flex-product-content-hover {
     display: flex;
     justify-content: space-between;
     font-family: 'Montserrat';
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+    border-color: #ccc;
+    margin-bottom: 20px;
 
     .item-heading {
       flex-basis: 29%;
